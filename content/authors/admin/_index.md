@@ -4,7 +4,7 @@ title: Augists-ZDCZ
 
 # Username (this should match the folder name)
 authors:
-- augists
+- admin
 
 # Is this the primary user of the site?
 superuser: true
